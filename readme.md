@@ -2,7 +2,7 @@ Given an integer n, return the number of prime numbers that are strictly less th
 
  
 
-Example 1:
+Example:
 ```
 Input: n = 10
 Output: 4
